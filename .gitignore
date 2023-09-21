@@ -1,2 +1,4 @@
 HAR
 HTML
+logs/
+lib/__pycache__/

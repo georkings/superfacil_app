@@ -4,7 +4,6 @@ import grequests
 
 import json
 import requests
-import telepot
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 from bs4 import BeautifulSoup
